@@ -1,6 +1,6 @@
 <div align="center">
 
-![Neko Logo](/Docs/Logo/logo.svg)
+![Neko Logo](/profile/Docs/Logo.svg)
 
 </div>
 
